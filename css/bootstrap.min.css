@@ -1,0 +1,61 @@
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+
+}
+
+.container {
+  width: 100%;
+  height:
+}
+
+.leftpane {
+    width: 35%;
+    height: 270px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left:-60px;
+    background-color: rosybrown;
+    border-collapse: collapse;
+}
+
+.middlepane {
+    width: 35%;
+    height: 270px;
+    text-align: center;
+    margin-top: -270px;
+    margin-left: 360px;
+
+    background-color: blue;
+    border-collapse: collapse;
+}
+
+.rightpane {
+  margin-top: -269px;
+  margin-right: -55px;
+  width: 35%;
+  height: 270px;
+  text-align: center;
+  position: relative;
+  float: right;
+  background-color: yellow;
+  border-collapse: collapse;
+}
+
+.toppane {
+  width: 100%;
+  margin-top: -50px;
+  height: 10px;
+  border-collapse: collapse;
+  background-color: royalblue;
+}
+.footer{
+  margin-top: 850px;
+  height: 80px;
+  text-align: center;
+}
+
+h1,h2{
+  color: yellow;
+}
